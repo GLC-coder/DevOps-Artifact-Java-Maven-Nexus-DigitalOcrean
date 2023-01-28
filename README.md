@@ -118,6 +118,10 @@ cat /opt/sonatype-work/nexus3/admin.password
 ![image](https://github.com/GLC-coder/DevOps-Artifact-Java-Gradle-Nexus-DigitalOcean/blob/master/image/Screenshot%202023-01-27%20at%206.04.33%20pm.png)
 ###### Nexus UI
 ![image](https://github.com/GLC-coder/DevOps-Artifact-Java-Gradle-Nexus-DigitalOcean/blob/master/image/Screenshot%202023-01-27%20at%208.46.21%20pm.png)
+###### Create a new user of Nexus with relevant privilege role for developer team to upload and fetch artifact
+![image](https://github.com/GLC-coder/DevOps-Artifact-Java-Gradle-Nexus-DigitalOcean/blob/master/image/Screenshot%202023-01-28%20at%207.20.28%20pm.png)
+
+![image](https://github.com/GLC-coder/DevOps-Artifact-Java-Gradle-Nexus-DigitalOcean/blob/master/image/Screenshot%202023-01-28%20at%207.20.44%20pm.png)
 ### Step 6 : Configure Java-Maven file for building and publishing
 ###### Add configuration into pom.xml file
 ![image](https://github.com/GLC-coder/DevOps-Artifact-Java-Maven-Nexus-DigitalOcrean/blob/master/image/Screenshot%202023-01-28%20at%2012.02.53%20am.png)
